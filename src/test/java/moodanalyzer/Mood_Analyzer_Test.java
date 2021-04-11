@@ -3,8 +3,6 @@ package moodanalyzer;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-import static javafx.scene.input.KeyCode.I;
-
 public class Mood_Analyzer_Test {
     @Test
     public void givenMessage_WhenSad_ShouldReturnSad()
