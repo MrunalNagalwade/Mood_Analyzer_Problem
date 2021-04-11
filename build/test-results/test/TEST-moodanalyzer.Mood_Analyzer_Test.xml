@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="moodanalyzer.Mood_Analyzer_Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-11T13:21:57" hostname="MRUNAL" time="0.028">
+  <properties/>
+  <testcase name="givenMessage_Whenhappy_ShouldReturnhappy()" classname="moodanalyzer.Mood_Analyzer_Test" time="0.028"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
