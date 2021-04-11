@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="moodanalyzer.Mood_Analyzer_Test_Exeption" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-04-11T13:51:20" hostname="MRUNAL" time="0.049">
+<testsuite name="moodanalyzer.Mood_Analyzer_Test_Exeption" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-04-11T13:58:07" hostname="MRUNAL" time="0.041">
   <properties/>
-  <testcase name="givenMessage_WhenSad_ShouldReturnSad()" classname="moodanalyzer.Mood_Analyzer_Test_Exeption" time="0.042"/>
-  <testcase name="givenMessage_Whennull_ShouldReturnhappy()" classname="moodanalyzer.Mood_Analyzer_Test_Exeption" time="0.002"/>
-  <testcase name="givenMessage_Whenhappy_ShouldReturnhappy()" classname="moodanalyzer.Mood_Analyzer_Test_Exeption" time="0.002"/>
+  <testcase name="givenMessage_WhenSad_ShouldReturnSad()" classname="moodanalyzer.Mood_Analyzer_Test_Exeption" time="0.036"/>
+  <testcase name="givenMessage_Whennull_ShouldReturnhappy()" classname="moodanalyzer.Mood_Analyzer_Test_Exeption" time="0.001"/>
+  <testcase name="givenMessage_Whenhappy_ShouldReturnhappy()" classname="moodanalyzer.Mood_Analyzer_Test_Exeption" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
